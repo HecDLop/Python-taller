@@ -1,3 +1,3 @@
-# Python-taller
-Repositorio del taller IIE
+# Hector Lopez
+Repositorio README
 Economics student at UNAM
